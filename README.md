@@ -33,7 +33,7 @@ JDollar project took place from year 2009 to
 
 It is invented by wilmix jemin j at CH$ and C/C++ Technology.
 
-It used JDollar-java runtime to run the programs.
+It use JDollar-java runtime to run the programs.
 
 JDollar is also used in software development, J$WALLET cloud computing , and mobiles.
 
@@ -100,7 +100,7 @@ c) JDollarpart3
 d) JDollarpart4
 e) JDollarpart5
 f) JDollarpart6
-g) JDollarpart5
+g) JDollarpart7
 
 
 And  JDollarpart1   is  further  divided  into  8  modules   they  are
