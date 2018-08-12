@@ -136,3 +136,10 @@ g)  Module-7:  JDollar-CDollar
 
 h) Module-8 :  JDollarPackages
 
+
+
+Advantages
+===========
+
+=> Focused for surface technology
+=> focused for userfriendly remotewebapplication used with J$wallet and saves time and cost.
