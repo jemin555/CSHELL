@@ -94,13 +94,13 @@ ABOUT JDOLLAR(J$) Advantages:
 
 JDollar  is  again  further  divided  in  to  7   divisions
 
-a) JDollarpart-1
-b) JDollarpart2
-c) JDollarpart3
-d) JDollarpart4
-e) JDollarpart5
-f) JDollarpart6
-g) JDollarpart7
+a) JDollarpart-1=>  Module (1-8) + JWP and  J$AI
+b) JDollarpart2 =>  J$p2  indicates  30 wide  framework
+c) JDollarpart3 =>  WSON,J$AGENT,etc
+d) JDollarpart4 => J$AdvancedBusiness-p1 with  JITZMOBILES
+e) JDollarpart5 => J$Military,J$Security  ,J$APPS,and  J$Prosperity  with  J$AI
+f) JDollarpart6  => J$AdvancedBusiness-p2 with J$WALLET with J$cloud
+g) JDollarpart7  => J$ADVANCEDTECHNOLOGY  AND  J$ERP WITH  J$CLOUD  
 
 
 And  JDollarpart1   is  further  divided  into  8  modules   they  are
