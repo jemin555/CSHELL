@@ -1,0 +1,21 @@
+JDOLLAR_SURFACE_SYNTAX
+======================
+
+<filename>.surface
+==================
+
+<J$SURFACE>
+<J$PANEL>
+@J$Agent(J$REMO)
+< Filename ="filename.j$" , DragandDrop="true", pid="?", username="/", Theme="Glassview">
+
+<OutputJ$panel text="white", Screen="black">
+
+<J$PRINT: J$Surface:output>
+</OUTPUT>
+
+</J$panel>
+
+</J$Surface>
+
+
