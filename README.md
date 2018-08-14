@@ -100,7 +100,7 @@ c) JDollarpart3 =>  WSON,J$AGENT,etc
 d) JDollarpart4 => J$AdvancedBusiness-p1 with  JITZMOBILES
 e) JDollarpart5 => J$Military,J$Security  ,J$APPS,and  J$Prosperity  with  J$AI
 f) JDollarpart6  => J$AdvancedBusiness-p2 with J$WALLET with J$cloud
-g) JDollarpart7  => J$ADVANCEDTECHNOLOGY  AND  J$ERP WITH  J$CLOUD  
+g) JDollarpart7  => J$ADVANCEDTECHNOLOGY  WITH  J$CLOUD  
 
 
 And  JDollarpart1   is  further  divided  into  8  modules   they  are
