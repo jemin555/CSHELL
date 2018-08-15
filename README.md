@@ -94,52 +94,39 @@ ABOUT JDOLLAR(J$) Advantages:
 
 JDollar  is  again  further  divided  in  to  7   divisions
 
-a) JDollarpart-1=>  Module (1-8) + JWP and  J$AI
+a) JDollarpart-1=>  Module (1-8) + JWP
 b) JDollarpart2 =>  J$p2  indicates  100 wide  framework
 c) JDollarpart3 =>  WSON,J$AGENT,etc
-d) JDollarpart4 => J$AdvancedBusiness-p1 with  JITZMOBILES
-e) JDollarpart5 => J$Military,J$Security  ,J$APPS,and  J$Prosperity  with  J$AI
+d) JDollarpart4 => J$AdvancedBusiness-p1 with  JITZMobiles
+e) JDollarpart5 => J$Military,J$Security  ,J$APPS,and  J$Prosperity .
 f) JDollarpart6  => J$AdvancedBusiness-p2 with J$WALLET with J$cloud
-g) JDollarpart7  => J$ADVANCEDTECHNOLOGY  WITH  J$CLOUD  
+g) JDollarpart7  => J$ADVANCEDTECHNOLOGY  WITH  J$CLOUD 
 
 
 And  JDollarpart1   is  further  divided  into  8  modules   they  are
 
 
 
-A) Module-1: JDollar3.0
+A) Module-1: JDollar3.0  with  JWP 
+
+
+b)  Module-2:  JDollar-Misc
+
+
+c) Module-3: JOS
+
+
+d)  Module-4:  JDollar-CDollar
 
 
 
-B) Module-2 : JDollar-JAVA
-
-
-
-c)  Module-3:  JDollar-Misc
-
-
-
-
-d)  Module-4:  JDollar-GDollar
-
-
-e) Module-5: JOS
-
-
-f) Module-6:  JDollar-JSLASH
-
-
-
-g)  Module-7:  JDollar-CDollar
-
-
-
-h) Module-8 :  JDollarPackages
+e) Module-5 :  JDollarPackages
 
 
 
 Advantages
 ===========
 
-=> Focused for surface technology
+=> Focused for surface technology ie) Year  2020 AD  vision
 => focused for userfriendly remotewebapplication used with J$wallet and saves time and cost.
+
