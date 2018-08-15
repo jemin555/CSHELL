@@ -127,6 +127,6 @@ e) Module-5 :  JDollarPackages
 Advantages
 ===========
 
-=> Focused for surface technology ie) Year  2020 AD  vision
+=> Focused for Remotewebapplication (ie) Terminal webapplication
 => focused for userfriendly remotewebapplication used with J$wallet and saves time and cost.
 
