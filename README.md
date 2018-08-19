@@ -4,7 +4,7 @@
  Definition: "JDOLLAR(J$)(CSHELL) is an interactive , System  programming, OOPS, Multipurpose, Advanced Technology  focused on J$wallet cloudcomputing, web and GUI development".
 
 
-
+CSHELL   Surface  Technology  module   is  invented  by    wilmix jemin j using  solomon ring.
 
 
 
