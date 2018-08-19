@@ -15,7 +15,7 @@ Definition: "JDOLLAR(J$) is an interactive , System
 
 programming, OOPS, Multipurpose, Advanced Technology
 
-focused on J$wallet cloudcomputing, web and GUI development".
+focused on DOTWEB3.0-J$wallet cloudcomputing, web and GUI development".
 
 
 Meaning : J$ stands for Success and prosperity.
