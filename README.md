@@ -3,10 +3,26 @@
 
  Definition: "JDOLLAR(J$)(CSHELL) is an interactive , System  programming, OOPS, Multipurpose, Advanced Technology  focused on J$wallet cloudcomputing, web and GUI development".
 
+ABOUT  JDOLLAR(J$)  with  MobileApplications
+=========================================
 
-CSHELL   Surface  Technology  module   is  invented  by    wilmix jemin j using  solomon ring.
+JDollar(J$)  invented  in   feb 2015  at
 
+Googlecode  is  focused   for  MobileWebapplication
 
+now   such  feature is updated  at  JAVA8(OAKJAVA8) programming
+
+language. So  Mobilewebapplication  is  first
+
+invented  by  wilmix jemin j at  JDollar(J$)  
+
+p.l  at  feb 2015.
+
+   Kindly  see  google  code
+
+for  more  details kindly see:
+
+https://code.google.com/archive/p/jdollarpart2/
 
 Define  JDollar:  
 =================
