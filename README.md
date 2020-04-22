@@ -117,6 +117,7 @@ d) JDollarpart4 => J$AdvancedBusiness-p1 with  JITZMobiles
 e) JDollarpart5 => J$Military,J$Security  ,J$APPS,and  J$Prosperity .
 f) JDollarpart6  => J$AdvancedBusiness-p2 with J$WALLET with J$cloud
 g) JDollarpart7  => J$ADVANCEDTECHNOLOGY  WITH  J$CLOUD 
+h) JDollarpart8 => JdollarProxy 
 
 
 And  JDollarpart1   is  further  divided  into  8  modules   they  are
@@ -143,6 +144,6 @@ e) Module-5 :  JDollarPackages
 Advantages
 ===========
 
-=> Focused for Remotewebapplication (ie) Terminal webapplication
+=> Focused for Remotewebapplication 
 => focused for userfriendly remotewebapplication used with J$wallet and saves time and cost.
 
