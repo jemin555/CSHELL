@@ -112,6 +112,11 @@ JDollar  is  again  further  divided  in  to  7   divisions
 
 a) JDollarpart-1=>  Module (1-8) + JWP
 b) JDollarpart2 =>  J$p2  indicates  100 wide  framework
+and  J@ framework focused for Mathematical statistics and  Datascience in year  2017
+and  such  concept is  now  removed   and  updated  in  oakjava7(Java7.0)...
+and  now  only  mathematical  statistics concept  is  now found in j@  at  JDollarpart2..
+
+
 c) JDollarpart3 =>  WSON,J$AGENT,etc
 d) JDollarpart4 => J$AdvancedBusiness-p1 with  JITZMobiles
 e) JDollarpart5 => J$Military,J$Security  ,J$APPS,and  J$Prosperity .
