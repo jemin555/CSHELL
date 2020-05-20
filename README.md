@@ -1,7 +1,7 @@
 # JDollar(CSHELL)
 ==================
 
- Definition: "JDOLLAR(J$)(CSHELL) is an interactive , System  programming, OOPS, Multipurpose, Advanced Technology  focused on J$wallet cloudcomputing, web and GUI development".
+ Definition: "JDOLLAR(J$)(CSHELL) is an interactive , System  programming, OOPS, Multipurpose, Advanced Technology  focused on J$wallet cloudcomputing, webapplication,Remotewebapplication and GUI development".
 
 ABOUT  JDOLLAR(J$)  with  MobileApplications
 =========================================
@@ -112,7 +112,7 @@ JDollar  is  again  further  divided  in  to  7   divisions
 
 a) JDollarpart-1=>  Module (1-8) + JWP
 b) JDollarpart2 =>  J$p2  indicates  100 wide  framework
-and  J@ framework focused for Mathematical statistics and  Datascience in year  2017
+and  J@ framework from  J$part2 focused for Mathematical statistics and  Datascience in year  2017
 and  such  concept is  now  removed   and  updated  in  oakjava7(Java7.0)...
 and  now  only  mathematical  statistics concept  is  now found in j@  at  JDollarpart2..
 and  AJAVA  at  J$part2   is  focused at   year  2017  with  DeepLearning Concept..
@@ -150,6 +150,6 @@ e) Module-5 :  JDollarPackages
 Advantages
 ===========
 
-=> Focused for Remotewebapplication 
-=> focused for userfriendly remotewebapplication used with J$wallet and saves time and cost.
+=> Focused for Advanced Remotewebapplication 
+=> Focused for userfriendly remotewebapplication used with J$wallet and saves time and cost.
 
