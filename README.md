@@ -61,7 +61,7 @@ ABOUT JDOLLAR(J$) Advantages:
 
 ```
 
-   => It is mainly used in OS DESIGN, Cloud Computing, Enterprise, Compilers design,AI, mobility,etc.
+   => It is mainly used in OS DESIGN, Cloud Computing, Enterprise, Compilers design,AI, mobility,DeepLearning tc.
 
       =>   It is used to develop any OS or compiler with in 2 days or 1 day.
 
@@ -115,6 +115,7 @@ b) JDollarpart2 =>  J$p2  indicates  100 wide  framework
 and  J@ framework focused for Mathematical statistics and  Datascience in year  2017
 and  such  concept is  now  removed   and  updated  in  oakjava7(Java7.0)...
 and  now  only  mathematical  statistics concept  is  now found in j@  at  JDollarpart2..
+and  AJAVA  at  J$part2   is  focused at   year  2017  with  DeepLearning Concept..
 
 
 c) JDollarpart3 =>  WSON,J$AGENT,etc
